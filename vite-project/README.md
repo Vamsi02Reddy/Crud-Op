@@ -9,10 +9,10 @@ Currently, two official plugins are available:
 
 
 # Crud operation
--Create
--Read
--Update
--Delete
+  -Create
+  -Read
+  -Update
+  -Delete
 
 # React Concepts
 
